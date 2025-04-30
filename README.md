@@ -77,8 +77,8 @@ The system consists of:
 ## 7. Conclusion
 The **Social Media Content Analyzer** provides valuable insights into social media trends and engagement. Future improvements will enhance accuracy and usability, making it a more robust tool for digital marketers and content creators.
 
----
+----
 
 ### **Contact**
 **Ayush Agarwal**  
-📧 Email: [agarwal0ayush@gmail.com](mailto:agarwal0ayush@gmail.com)  
+📧 Email: [agarwal0ayush@gmail.com](mailto:agarwal0ayush@gmail.com)
